@@ -12,8 +12,7 @@ Este proyecto permite la creación, gestión, visualización y respuesta de encu
 
 ## Requisitos
 Este proyecto está desarrollado en Python 3. Las dependencias principales son:
-- **Tkinter**: Biblioteca de Python utilizada para crear la interfaz gráfica de usuario. Generalmente viene preinstalada con Python.
-- Si se añaden más dependencias en el futuro (como librerías para análisis de datos o integración de APIs), se añadirán a `requirements.txt`.
+- **Tkinter**: Biblioteca de Python utilizada para crear la interfaz gráfica de usuario.
 
 ### Dependencias
 Este proyecto actualmente no requiere librerías externas adicionales, solo Python con Tkinter.
@@ -21,7 +20,7 @@ Este proyecto actualmente no requiere librerías externas adicionales, solo Pyth
 ## Instalación
 1. Clona el repositorio.
    ```bash
-   git clone https://github.com/tu-usuario/sistema-gestion-encuestas.git
+   git clone https://github.com/JuanCano420/Parcial3-Encuesta.git
 2. Instala las dependencias:
    ```bash
    pip install -r requirements.txt
