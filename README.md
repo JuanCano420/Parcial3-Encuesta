@@ -1,24 +1,6 @@
 # Sistema de Gestión de Encuestas
 
 ## Descripción
-Este sistema permite gestionar encuestas, importar grupos de encuestados, generar informes y conectarse con un CRM.
-
-## Estructura
-- `app/`: Contiene el código fuente.
-- `docs/`: Documentación del proyecto.
-
-## Instalación
-1. Clona el repositorio.
-2. Instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-
-3. python app/main.py
-
-
-# Sistema de Gestión de Encuestas
-
-## Descripción
 Este proyecto permite la creación, gestión, visualización y respuesta de encuestas. Los administradores pueden crear encuestas, seleccionar preguntas para incluir en ellas, y visualizar las respuestas de los usuarios. Los usuarios pueden responder las encuestas, y sus respuestas se almacenan en un historial accesible para los administradores.
 
 ### Funcionalidades principales:
@@ -38,6 +20,7 @@ Este proyecto actualmente no requiere librerías externas adicionales, solo Pyth
 
 ## Instalación
 1. Clona el repositorio.
+   ```bash
    git clone https://github.com/tu-usuario/sistema-gestion-encuestas.git
 2. Instala las dependencias:
    ```bash
