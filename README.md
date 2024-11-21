@@ -25,4 +25,6 @@ Este proyecto actualmente no requiere librerías externas adicionales, solo Pyth
    ```bash
    pip install -r requirements.txt
 
-3. python app/main.py
+3. Ejecuta el programa:
+   ```bash
+   python app/main.py
